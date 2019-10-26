@@ -107,11 +107,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Dana"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "I am an Challenging person."
+  location         : "Cheonan,Kr"
+  email            : "yjk9313@gamil.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
