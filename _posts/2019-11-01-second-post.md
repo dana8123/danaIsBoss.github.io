@@ -1,6 +1,6 @@
 ---
 title: "Kokoa clone, challenge program 일지"
-date: 2019-10-26 03:54:28 -0400
+date: 2019-11-01 01:00:28 -0400
 categories: HTML
 ---
 #챌린지 두번째 코딩문제를 푸는 도중 깨달은 것
