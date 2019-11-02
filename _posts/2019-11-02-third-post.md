@@ -1,6 +1,6 @@
 ---
 title: "Kokoa clone, challenge program 일지2"
-date: 2019-11-01 03:30:28 -0400
+date: 2019-11-02 03:30:28 -0400
 categories: nomadChallenge
 ---
 
