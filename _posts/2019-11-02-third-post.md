@@ -9,7 +9,7 @@ categories: nomadChallenge
 -과제하면서 있었던 일:
 이미지와 버튼을 트랜지션 하는 과제였는데 *버튼을 호버시키면 이미지도 돌아가게 하는 CSS를 작성하는것*이 목표였다.
 작동이 되네! 싶은 순간 이미지와 버튼이 겹쳐져서 소소한 실패를 겪었다.
-![image](https://user-images.githubusercontent.com/46172219/68067399-8e39a480-fd89-11e9-9fa3-534599eb33ca.png"착각이었다니")
+![image](https://user-images.githubusercontent.com/46172219/68067399-8e39a480-fd89-11e9-9fa3-534599eb33ca.png)
 
 슬랙채널에서 도움을 받아 flex박스를 사용하면 해결 될 것이라는 이야기를 듣고나서야 이미지와 버튼을 떼놓는데 성공!
 (그 사이에 몇번의 실험과 좌절이 있었다.)
