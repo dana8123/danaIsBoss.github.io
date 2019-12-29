@@ -2,6 +2,7 @@
 title: "Kokoa clone, challenge program 일지2"
 date: 2019-11-02 03:30:28 -0400
 categories: nomadChallenge
+comments: true
 ---
 
 # 노마드 챌린지 프로그램 일지 Day4
